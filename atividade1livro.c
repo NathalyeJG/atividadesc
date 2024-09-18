@@ -17,4 +17,5 @@ int main(void)
          media = total / 10;
          printf( "Média da turma é %d\n", media );
          return 0;
+         
 } 
